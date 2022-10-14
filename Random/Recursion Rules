@@ -1,0 +1,14 @@
+# The rules are:
+# 1. Decide on the name of your function and the arguments that must be passed to it
+# to complete its work as well as what value the function should return.
+# 2. Write the base case for your recursive function first.
+# The base case is an if statement that handles a very simple case in the recursive function by returning a
+# value.
+# 3. Finally, you must call the function recursively with an argument or arguments
+# that are smaller in some way than the parameters that were passed to the function
+# when the last call was made. The argument or arguments that get smaller are the
+# same argument or arguments you examined in your base case.
+# 4. Look at a concrete example. Pick some values to try out with your recursive
+# function. Trust that the recursive call you made in the last step works. Take the
+# result from that recursive call and use it to form the result you want your function
+# to return. Use the concrete example to help you see how to form that result.
